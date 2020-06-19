@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "toto@mail.com",
+      "password": "U2FsdGVkX1+cDD5XMQkd3q9LzJnbM3W/IuliCNNJkwo=",
+      "id": 1
+    },
+    {
+      "email": "t@mail.com",
+      "password": "0b4e7a0e5fe84ad35fb5f95b9ceeac79",
+      "id": 2
+    },
+    {
+      "email": "thomas@mail.com",
+      "password": "0b4e7a0e5fe84ad35fb5f95b9ceeac79",
+      "id": 3
+    }
+  ]
+}
